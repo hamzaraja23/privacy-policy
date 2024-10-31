@@ -2,54 +2,20 @@ Privacy Policy for CelQ
 
 Effective Date: [10/20/2024]
 
-1. Introduction
-Thank you for choosing CelQ. We are committed to protecting your privacy and providing a secure experience. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our application.
+Your privacy is important to us, and we are committed to protecting it. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our application. By using CelQ, you agree to the practices described in this Privacy Policy.
 
-2. Information We Collect
-We collect certain information to operate effectively and provide you with the best experience with CelQ. This includes:
+At CelQ, we collect information to ensure a seamless and secure experience. This includes personal details provided when you log in via third-party services like Jira or Zendesk, such as your name, email address, and profile information. We also collect usage data that helps us understand how you interact with the app, including access times, pages viewed, and actions taken. In addition, we gather technical information about the devices used to access CelQ, such as IP addresses, browser types, and device identifiers.
 
-Personal Information: When you sign up or log in via third-party services (such as Jira, Zendesk, etc.), we may collect personal data like your name, email address, and profile information.
-Usage Data: Information about your interactions with CelQ, including access times, pages viewed, and actions taken within the app, to improve functionality.
-Device Information: Technical details about the device and software you use, such as IP address, browser type, operating system, and device identifiers.
+We use this information to provide and maintain CelQ's services, improve functionality, and enhance your experience. For instance, usage data allows us to analyze patterns, optimize features, and quickly address bugs. We may also use this information to communicate updates, including changes to features or policies. Your data is essential in ensuring the security and integrity of our app, and we take measures to protect it against unauthorized access and other risks.
 
-3. How We Use Your Information
-We use the information we collect for the following purposes:
+CelQ does not sell or rent your personal information to third parties. In some cases, we may share data with trusted service providers who assist in app operations, such as analytics and hosting services. These providers are bound by confidentiality agreements and are permitted to use your data only for the specified purposes. We may also disclose information if required by law or to protect CelQ's legal rights, such as in response to a court order or legal process.
 
-To Provide and Maintain the Service: Ensure CelQ functions correctly and efficiently.
-To Improve User Experience: Analyze user interactions to enhance features, fix bugs, and develop new capabilities.
-To Communicate with You: Send important updates, such as feature changes, maintenance, or privacy policy updates.
-For Security and Compliance: Safeguard our application against fraud, unauthorized access, and other security issues.
+We retain your information only for as long as necessary to fulfill the purposes described in this Privacy Policy or as required by law. Depending on your location, you may have rights regarding your personal data, including access, correction, deletion, and the ability to limit or object to certain processing activities. To exercise these rights, please contact us at the address provided below.
 
-4. Information Sharing and Disclosure
-We do not sell or rent your personal data. However, we may share information in the following circumstances:
+CelQ may include links to third-party applications or services. This Privacy Policy does not apply to those external sites, and we encourage you to review their privacy policies to understand how they handle your data.
 
-With Service Providers: Third-party vendors who assist with the app’s operation and services, such as hosting and analytics, are only given access to data as needed and are bound by confidentiality agreements.
-For Legal Compliance: If required by law or to protect our rights, we may disclose your information to comply with regulatory requirements, court orders, or legal processes.
+CelQ is not intended for use by children under the age of 13. We do not knowingly collect personal data from children. If we become aware that we have inadvertently gathered information from a child under 13, we will take steps to delete it promptly.
 
-5. Data Security
-We implement industry-standard security measures to protect your data. However, no transmission over the internet is entirely secure, and we cannot guarantee absolute security.
+We may update this Privacy Policy to reflect changes in our practices or for other operational, legal, or regulatory reasons. The effective date of the latest version will be displayed at the top of this policy. We encourage you to review this policy periodically to stay informed about how we protect your information.
 
-6. Your Data Rights
-Depending on your location, you may have certain rights regarding your personal data. This includes the right to:
-
-Access and Obtain a Copy of Your Data
-Request Correction of Inaccurate Information
-Request Deletion of Personal Data
-Restrict or Object to Certain Processing Activities
-
-7. Third-Party Links and Integrations
-CelQ may contain links to other applications or services, such as Jira or Zendesk. This Privacy Policy does not apply to third-party services, and we are not responsible for their privacy practices. Please review their policies before using them.
-
-8. Data Retention
-We retain your information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required by law.
-
-9. Children’s Privacy
-CelQ is not intended for children under the age of 13, and we do not knowingly collect data from minors. If we learn that we have collected personal information from a child under 13, we will take steps to delete such information.
-
-10. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. When we make changes, we will notify you by updating the “Effective Date” at the top of this page. We encourage you to review this Privacy Policy periodically for any updates.
-
-11. Contact Us
-If you have questions or concerns about this Privacy Policy, please contact us at:
-
-Email: Hamzaraja825@gmail.com
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at Hamzaraja825@gmail.com
